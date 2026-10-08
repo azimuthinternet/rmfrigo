@@ -1,0 +1,1 @@
+{"@context":"https://schema.org","@type":"CollectionPage","name":"Mitsubishi Electric klima uređaji Rijeka","description":"Pregled Mitsubishi Electric klima uređaja, serija i modela.","url":"https://rmfrigo.hr/klima-uredaji/mitsubishi-electric/","about":{"@type":"Brand","name":"Mitsubishi Electric"},"isPartOf":{"@type":"WebSite","name":"RM Frigo","url":"https://rmfrigo.hr/"}}
